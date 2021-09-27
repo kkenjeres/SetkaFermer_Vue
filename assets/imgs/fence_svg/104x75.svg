@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="205" height="238.495" viewBox="0 0 205 238.495">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #666;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #999;
+      }
+
+      .cls-3 {
+        fill: #ccc;
+      }
+
+      .cls-4 {
+        fill: #f2f2f2;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: blue;
+      }
+
+      .cls-6 {
+        fill: blue;
+      }
+
+      .cls-7 {
+        font-size: 11px;
+        font-family: ArialMT, Arial;
+      }
+    </style>
+  </defs>
+  <g id="_104_x_7.5" data-name="104 x 7.5" transform="translate(0 0.49)">
+    <rect id="Rectangle_145" data-name="Rectangle 145" class="cls-1" width="15" height="15" transform="translate(153.001 196.01)"/>
+    <rect id="Rectangle_146" data-name="Rectangle 146" class="cls-1" width="15" height="15" transform="translate(153.001 181.01)"/>
+    <rect id="Rectangle_147" data-name="Rectangle 147" class="cls-1" width="15" height="15" transform="translate(153.001 166.01)"/>
+    <rect id="Rectangle_148" data-name="Rectangle 148" class="cls-1" width="15" height="15" transform="translate(138.001 196.01)"/>
+    <rect id="Rectangle_149" data-name="Rectangle 149" class="cls-1" width="15" height="15" transform="translate(138.001 181.01)"/>
+    <rect id="Rectangle_150" data-name="Rectangle 150" class="cls-1" width="15" height="15" transform="translate(138.001 166.01)"/>
+    <rect id="Rectangle_151" data-name="Rectangle 151" class="cls-1" width="15" height="15" transform="translate(123.001 196.01)"/>
+    <rect id="Rectangle_152" data-name="Rectangle 152" class="cls-1" width="15" height="15" transform="translate(123.001 181.01)"/>
+    <rect id="Rectangle_153" data-name="Rectangle 153" class="cls-1" width="15" height="15" transform="translate(123.001 166.01)"/>
+    <rect id="Rectangle_154" data-name="Rectangle 154" class="cls-2" width="15" height="20" transform="translate(153.001 146.01)"/>
+    <rect id="Rectangle_155" data-name="Rectangle 155" class="cls-2" width="15" height="20" transform="translate(138.001 146.01)"/>
+    <rect id="Rectangle_156" data-name="Rectangle 156" class="cls-2" width="15" height="20" transform="translate(123.001 146.01)"/>
+    <rect id="Rectangle_157" data-name="Rectangle 157" class="cls-3" width="15" height="30" transform="translate(153.001 116.01)"/>
+    <rect id="Rectangle_158" data-name="Rectangle 158" class="cls-3" width="15" height="30" transform="translate(153.001 86.01)"/>
+    <rect id="Rectangle_159" data-name="Rectangle 159" class="cls-3" width="15" height="30" transform="translate(138.001 116.01)"/>
+    <rect id="Rectangle_160" data-name="Rectangle 160" class="cls-3" width="15" height="30" transform="translate(138.001 86.01)"/>
+    <rect id="Rectangle_161" data-name="Rectangle 161" class="cls-3" width="15" height="30" transform="translate(123.001 116.01)"/>
+    <rect id="Rectangle_162" data-name="Rectangle 162" class="cls-3" width="15" height="30" transform="translate(123.001 86.01)"/>
+    <rect id="Rectangle_163" data-name="Rectangle 163" class="cls-4" width="15" height="43" transform="translate(153.001 43.01)"/>
+    <rect id="Rectangle_164" data-name="Rectangle 164" class="cls-4" width="15" height="43" transform="translate(138.001 43.01)"/>
+    <rect id="Rectangle_165" data-name="Rectangle 165" class="cls-4" width="15" height="43" transform="translate(123.001 43.01)"/>
+    <rect id="Rectangle_166" data-name="Rectangle 166" class="cls-4" width="15" height="43" transform="translate(153.001 0.01)"/>
+    <rect id="Rectangle_171" data-name="Rectangle 171" class="cls-4" width="15" height="43" transform="translate(138.001 0.01)"/>
+    <rect id="Rectangle_176" data-name="Rectangle 176" class="cls-4" width="15" height="43" transform="translate(123.001 0.01)"/>
+    <rect id="Rectangle_177" data-name="Rectangle 177" class="cls-1" width="15" height="15" transform="translate(108.001 196.01)"/>
+    <rect id="Rectangle_178" data-name="Rectangle 178" class="cls-1" width="15" height="15" transform="translate(108.001 181.01)"/>
+    <rect id="Rectangle_179" data-name="Rectangle 179" class="cls-1" width="15" height="15" transform="translate(108.001 166.01)"/>
+    <rect id="Rectangle_180" data-name="Rectangle 180" class="cls-1" width="15" height="15" transform="translate(93.001 196.01)"/>
+    <rect id="Rectangle_181" data-name="Rectangle 181" class="cls-1" width="15" height="15" transform="translate(93.001 181.01)"/>
+    <rect id="Rectangle_182" data-name="Rectangle 182" class="cls-1" width="15" height="15" transform="translate(93.001 166.01)"/>
+    <rect id="Rectangle_183" data-name="Rectangle 183" class="cls-1" width="15" height="15" transform="translate(78.001 196.01)"/>
+    <rect id="Rectangle_184" data-name="Rectangle 184" class="cls-1" width="15" height="15" transform="translate(78.001 181.01)"/>
+    <rect id="Rectangle_185" data-name="Rectangle 185" class="cls-1" width="15" height="15" transform="translate(78.001 166.01)"/>
+    <rect id="Rectangle_186" data-name="Rectangle 186" class="cls-2" width="15" height="20" transform="translate(108.001 146.01)"/>
+    <rect id="Rectangle_187" data-name="Rectangle 187" class="cls-2" width="15" height="20" transform="translate(93.001 146.01)"/>
+    <rect id="Rectangle_188" data-name="Rectangle 188" class="cls-2" width="15" height="20" transform="translate(78.001 146.01)"/>
+    <rect id="Rectangle_189" data-name="Rectangle 189" class="cls-3" width="15" height="30" transform="translate(108.001 116.01)"/>
+    <rect id="Rectangle_190" data-name="Rectangle 190" class="cls-3" width="15" height="30" transform="translate(108.001 86.01)"/>
+    <rect id="Rectangle_191" data-name="Rectangle 191" class="cls-3" width="15" height="30" transform="translate(93.001 116.01)"/>
+    <rect id="Rectangle_192" data-name="Rectangle 192" class="cls-3" width="15" height="30" transform="translate(93.001 86.01)"/>
+    <rect id="Rectangle_193" data-name="Rectangle 193" class="cls-3" width="15" height="30" transform="translate(78.001 116.01)"/>
+    <rect id="Rectangle_194" data-name="Rectangle 194" class="cls-3" width="15" height="30" transform="translate(78.001 86.01)"/>
+    <rect id="Rectangle_195" data-name="Rectangle 195" class="cls-4" width="15" height="43" transform="translate(108.001 43.01)"/>
+    <rect id="Rectangle_196" data-name="Rectangle 196" class="cls-4" width="15" height="43" transform="translate(93.001 43.01)"/>
+    <rect id="Rectangle_197" data-name="Rectangle 197" class="cls-4" width="15" height="43" transform="translate(78.001 43.01)"/>
+    <rect id="Rectangle_198" data-name="Rectangle 198" class="cls-4" width="15" height="43" transform="translate(108.001 0.01)"/>
+    <rect id="Rectangle_199" data-name="Rectangle 199" class="cls-4" width="15" height="43" transform="translate(93.001 0.01)"/>
+    <rect id="Rectangle_200" data-name="Rectangle 200" class="cls-4" width="15" height="43" transform="translate(78.001 0.01)"/>
+    <rect id="Rectangle_201" data-name="Rectangle 201" class="cls-1" width="15" height="15" transform="translate(63.001 196.01)"/>
+    <rect id="Rectangle_202" data-name="Rectangle 202" class="cls-1" width="15" height="15" transform="translate(63.001 181.01)"/>
+    <rect id="Rectangle_203" data-name="Rectangle 203" class="cls-1" width="15" height="15" transform="translate(63.001 166.01)"/>
+    <rect id="Rectangle_204" data-name="Rectangle 204" class="cls-1" width="15" height="15" transform="translate(48.001 196.01)"/>
+    <rect id="Rectangle_205" data-name="Rectangle 205" class="cls-1" width="15" height="15" transform="translate(48.001 181.01)"/>
+    <rect id="Rectangle_206" data-name="Rectangle 206" class="cls-1" width="15" height="15" transform="translate(48.001 166.01)"/>
+    <rect id="Rectangle_207" data-name="Rectangle 207" class="cls-1" width="15" height="15" transform="translate(33.001 196.01)"/>
+    <rect id="Rectangle_208" data-name="Rectangle 208" class="cls-1" width="15" height="15" transform="translate(33.001 181.01)"/>
+    <rect id="Rectangle_209" data-name="Rectangle 209" class="cls-1" width="15" height="15" transform="translate(33.001 166.01)"/>
+    <rect id="Rectangle_210" data-name="Rectangle 210" class="cls-2" width="15" height="20" transform="translate(63.001 146.01)"/>
+    <rect id="Rectangle_211" data-name="Rectangle 211" class="cls-2" width="15" height="20" transform="translate(48.001 146.01)"/>
+    <rect id="Rectangle_212" data-name="Rectangle 212" class="cls-2" width="15" height="20" transform="translate(33.001 146.01)"/>
+    <rect id="Rectangle_213" data-name="Rectangle 213" class="cls-3" width="15" height="30" transform="translate(63.001 116.01)"/>
+    <rect id="Rectangle_214" data-name="Rectangle 214" class="cls-3" width="15" height="30" transform="translate(63.001 86.01)"/>
+    <rect id="Rectangle_215" data-name="Rectangle 215" class="cls-3" width="15" height="30" transform="translate(48.001 116.01)"/>
+    <rect id="Rectangle_216" data-name="Rectangle 216" class="cls-3" width="15" height="30" transform="translate(48.001 86.01)"/>
+    <rect id="Rectangle_217" data-name="Rectangle 217" class="cls-3" width="15" height="30" transform="translate(33.001 116.01)"/>
+    <rect id="Rectangle_218" data-name="Rectangle 218" class="cls-3" width="15" height="30" transform="translate(33.001 86.01)"/>
+    <rect id="Rectangle_219" data-name="Rectangle 219" class="cls-4" width="15" height="43" transform="translate(63.001 43.01)"/>
+    <rect id="Rectangle_220" data-name="Rectangle 220" class="cls-4" width="15" height="43" transform="translate(48.001 43.01)"/>
+    <rect id="Rectangle_221" data-name="Rectangle 221" class="cls-4" width="15" height="43" transform="translate(33.001 43.01)"/>
+    <rect id="Rectangle_222" data-name="Rectangle 222" class="cls-4" width="15" height="43" transform="translate(63.001 0.01)"/>
+    <rect id="Rectangle_223" data-name="Rectangle 223" class="cls-4" width="15" height="43" transform="translate(48.001 0.01)"/>
+    <rect id="Rectangle_224" data-name="Rectangle 224" class="cls-4" width="15" height="43" transform="translate(33.001 0.01)"/>
+    <line id="Line_42" data-name="Line 42" class="cls-5" x2="15" transform="translate(167.996 211.005) rotate(90)"/>
+    <line id="Line_43" data-name="Line 43" class="cls-5" x1="15" transform="translate(152.996 211.005) rotate(90)"/>
+    <line id="Line_44" data-name="Line 44" class="cls-5" y2="13.19" transform="translate(167.096 218.505) rotate(90)"/>
+    <g id="Group_50" data-name="Group 50" transform="translate(597.626 51.025) rotate(90)">
+      <path id="Path_21" data-name="Path 21" class="cls-6" d="M163.88,435.65a.376.376,0,0,0,.52-.12l3.08-4.84,3.08,4.84a.373.373,0,1,0,.63-.4l-3.4-5.34a.373.373,0,0,0-.32-.17.4.4,0,0,0-.32.17l-3.4,5.34a.361.361,0,0,0-.06.2A.448.448,0,0,0,163.88,435.65Z"/>
+    </g>
+    <g id="Group_51" data-name="Group 51" transform="translate(597.626 51.025) rotate(90)">
+      <path id="Path_22" data-name="Path 22" class="cls-6" d="M163.88,438.6a.376.376,0,0,1,.52.12l3.08,4.84,3.08-4.84a.373.373,0,1,1,.63.4l-3.4,5.34a.373.373,0,0,1-.32.17.4.4,0,0,1-.32-.17l-3.4-5.34a.361.361,0,0,1-.06-.2A.448.448,0,0,1,163.88,438.6Z"/>
+    </g>
+    <text id="_7.5" data-name="7.5" class="cls-7" transform="translate(153 236.005)"><tspan x="0" y="0">7.5</tspan></text>
+    <line id="Line_45" data-name="Line 45" class="cls-5" x2="15" transform="translate(168.001 196.01)"/>
+    <line id="Line_46" data-name="Line 46" class="cls-5" x1="15" transform="translate(168.001 211.01)"/>
+    <line id="Line_47" data-name="Line 47" class="cls-5" x2="15" transform="translate(168.001 146.01)"/>
+    <line id="Line_48" data-name="Line 48" class="cls-5" x1="15" transform="translate(168.001 166.01)"/>
+    <line id="Line_49" data-name="Line 49" class="cls-5" x2="15" transform="translate(168.001 116.01)"/>
+    <line id="Line_50" data-name="Line 50" class="cls-5" x1="15" transform="translate(168.001 86.01)"/>
+    <line id="Line_51" data-name="Line 51" class="cls-5" x2="15" transform="translate(168.001 43.01)"/>
+    <text id="_7.5-2" data-name="7.5" class="cls-7" transform="translate(183 209.006)"><tspan x="0" y="0">7.5</tspan></text>
+    <text id="_10" data-name="10" class="cls-7" transform="translate(183 164.006)"><tspan x="0" y="0">10</tspan></text>
+    <text id="_15" data-name="15" class="cls-7" transform="translate(183 144.006)"><tspan x="0" y="0">15</tspan></text>
+    <text id="_21.5" data-name="21.5" class="cls-7" transform="translate(183 84.006)"><tspan x="0" y="0">21.5</tspan></text>
+    <line id="Line_52" data-name="Line 52" class="cls-5" y2="41.19" transform="translate(175.501 43.91)"/>
+    <g id="Group_52" data-name="Group 52" transform="translate(8.021 -233.62)">
+      <path id="Path_15" data-name="Path 15" class="cls-6" d="M163.88,282.65a.376.376,0,0,0,.52-.12l3.08-4.84,3.08,4.84a.373.373,0,1,0,.63-.4l-3.4-5.34a.373.373,0,0,0-.32-.17.4.4,0,0,0-.32.17l-3.4,5.34a.361.361,0,0,0-.06.2A.448.448,0,0,0,163.88,282.65Z"/>
+    </g>
+    <g id="Group_53" data-name="Group 53" transform="translate(8.021 -233.62)">
+      <path id="Path_16" data-name="Path 16" class="cls-6" d="M163.88,313.6a.376.376,0,0,1,.52.12l3.08,4.84,3.08-4.84a.373.373,0,1,1,.63.4l-3.4,5.34a.373.373,0,0,1-.32.17.4.4,0,0,1-.32-.17l-3.4-5.34a.361.361,0,0,1-.06-.2A.448.448,0,0,1,163.88,313.6Z"/>
+    </g>
+    <line id="Line_53" data-name="Line 53" class="cls-5" y2="28.19" transform="translate(175.501 116.91)"/>
+    <g id="Group_54" data-name="Group 54" transform="translate(8.021 -233.62)">
+      <path id="Path_17" data-name="Path 17" class="cls-6" d="M163.88,355.65a.376.376,0,0,0,.52-.12l3.08-4.84,3.08,4.84a.373.373,0,1,0,.63-.4l-3.4-5.34a.373.373,0,0,0-.32-.17.4.4,0,0,0-.32.17l-3.4,5.34a.361.361,0,0,0-.06.2A.448.448,0,0,0,163.88,355.65Z"/>
+    </g>
+    <g id="Group_55" data-name="Group 55" transform="translate(8.021 -233.62)">
+      <path id="Path_18" data-name="Path 18" class="cls-6" d="M163.88,373.6a.376.376,0,0,1,.52.12l3.08,4.84,3.08-4.84a.373.373,0,1,1,.63.4l-3.4,5.34a.373.373,0,0,1-.32.17.4.4,0,0,1-.32-.17l-3.4-5.34a.361.361,0,0,1-.06-.2A.448.448,0,0,1,163.88,373.6Z"/>
+    </g>
+    <line id="Line_54" data-name="Line 54" class="cls-5" y1="18.19" transform="translate(175.501 146.91)"/>
+    <g id="Group_56" data-name="Group 56" transform="translate(8.021 -233.62)">
+      <path id="Path_19" data-name="Path 19" class="cls-6" d="M171.08,393.6a.376.376,0,0,0-.52.12l-3.08,4.84-3.08-4.84a.373.373,0,1,0-.63.4l3.4,5.34a.373.373,0,0,0,.32.17.4.4,0,0,0,.32-.17l3.4-5.34a.361.361,0,0,0,.06-.2A.448.448,0,0,0,171.08,393.6Z"/>
+    </g>
+    <g id="Group_57" data-name="Group 57" transform="translate(8.021 -233.62)">
+      <path id="Path_20" data-name="Path 20" class="cls-6" d="M171.08,385.65a.376.376,0,0,1-.52-.12l-3.08-4.84-3.08,4.84a.373.373,0,1,1-.63-.4l3.4-5.34a.373.373,0,0,1,.32-.17.4.4,0,0,1,.32.17l3.4,5.34a.361.361,0,0,1,.06.2A.448.448,0,0,1,171.08,385.65Z"/>
+    </g>
+    <line id="Line_55" data-name="Line 55" class="cls-5" y2="13.19" transform="translate(175.501 196.91)"/>
+    <g id="Group_58" data-name="Group 58" transform="translate(8.021 -233.62)">
+      <path id="Path_21-2" data-name="Path 21" class="cls-6" d="M163.88,435.65a.376.376,0,0,0,.52-.12l3.08-4.84,3.08,4.84a.373.373,0,1,0,.63-.4l-3.4-5.34a.373.373,0,0,0-.32-.17.4.4,0,0,0-.32.17l-3.4,5.34a.361.361,0,0,0-.06.2A.448.448,0,0,0,163.88,435.65Z"/>
+    </g>
+    <g id="Group_59" data-name="Group 59" transform="translate(8.021 -233.62)">
+      <path id="Path_22-2" data-name="Path 22" class="cls-6" d="M163.88,438.6a.376.376,0,0,1,.52.12l3.08,4.84,3.08-4.84a.373.373,0,1,1,.63.4l-3.4,5.34a.373.373,0,0,1-.32.17.4.4,0,0,1-.32-.17l-3.4-5.34a.361.361,0,0,1-.06-.2A.448.448,0,0,1,163.88,438.6Z"/>
+    </g>
+    <line id="Line_156" data-name="Line 156" class="cls-5" x1="15" transform="translate(18.001 211.01)"/>
+    <line id="Line_157" data-name="Line 157" class="cls-5" x2="15" transform="translate(18.001 0.01)"/>
+    <line id="Line_158" data-name="Line 158" class="cls-5" y2="210.595" transform="translate(25.501 0.91)"/>
+    <g id="Group_144" data-name="Group 144" transform="translate(-141.979 -276.62)">
+      <path id="Path_15-2" data-name="Path 15" class="cls-6" d="M163.88,282.65a.376.376,0,0,0,.52-.12l3.08-4.84,3.08,4.84a.373.373,0,1,0,.63-.4l-3.4-5.34a.373.373,0,0,0-.32-.17.4.4,0,0,0-.32.17l-3.4,5.34a.361.361,0,0,0-.06.2A.448.448,0,0,0,163.88,282.65Z"/>
+    </g>
+    <g id="Group_145" data-name="Group 145" transform="translate(-141.979 -108.62)">
+      <path id="Path_16-2" data-name="Path 16" class="cls-6" d="M163.88,313.6a.376.376,0,0,1,.52.12l3.08,4.84,3.08-4.84a.373.373,0,1,1,.63.4l-3.4,5.34a.373.373,0,0,1-.32.17.4.4,0,0,1-.32-.17l-3.4-5.34a.361.361,0,0,1-.06-.2A.448.448,0,0,1,163.88,313.6Z"/>
+    </g>
+    <text id="_104" data-name="104" class="cls-7" transform="translate(0 110.006)"><tspan x="0" y="0">104</tspan></text>
+  </g>
+</svg>
